@@ -2,7 +2,7 @@
 [![Current Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/fnanoia/API-typescript) 
 
 <!-- TECHNOLOGIES -->
-## Tecnologias usadas
+### Technologies
 
 [![Node][node-shield]][node-url]
 [![Typescript][typescript-shield]][typescript-url]
@@ -11,11 +11,11 @@
 [![JWT][jwt-shield]][jwt-url]
 
 <!-- TEAM INFO -->
-## Equipo
-* Elias Galeano - Backend Dev 
+### Team
+Elias Galeano - Backend Dev 
 <br>[![LinkedIn][linkedin-shield]][linkedin-url-elias]  [![GitHub][github-shield]][github-url-elias]
 
-* Francisco Nanoia - Backend Dev 
+Francisco Nanoia - Backend Dev 
 <br>[![LinkedIn][linkedin-shield]][linkedin-url-fran]  [![GitHub][github-shield]][github-url-fran]
 
 <!-- LINKS -->
